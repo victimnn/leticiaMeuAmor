@@ -19,7 +19,7 @@ A página inclui as seguintes seções:
 
 Para visualizar a página, basta abrir o arquivo `index.html` em seu navegador.
 
-Ou [CLique Aqui!](www.leticia-meu-amor.vercel.app)
+Ou [Clique Aqui!](www.leticia-meu-amor.vercel.app)
 
 ## Dedicatória
 
